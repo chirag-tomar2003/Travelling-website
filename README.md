@@ -1,0 +1,1 @@
+Wanderlust is an elegant and responsive travel website created using HTML, CSS, and JavaScript. This project is designed to inspire and assist users in planning their dream vacations, providing a rich array of travel information, destination guides, booking services, and user-friendly navigation.
